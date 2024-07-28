@@ -1,0 +1,10 @@
+* {
+  color: #09686b;
+}
+body {
+  background: url(img/photo2.jpeg) rgba(0, 0, 0, 0.3);
+  background-blend-mode: multiply;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
